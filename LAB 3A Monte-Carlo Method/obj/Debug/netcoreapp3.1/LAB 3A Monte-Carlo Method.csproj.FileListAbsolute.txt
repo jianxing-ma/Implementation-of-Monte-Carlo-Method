@@ -1,0 +1,11 @@
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 3A Monte-Carlo Method\LAB 3A Monte-Carlo Method\obj\Debug\netcoreapp3.1\LAB 3A Monte-Carlo Method.csprojAssemblyReference.cache
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 3A Monte-Carlo Method\LAB 3A Monte-Carlo Method\obj\Debug\netcoreapp3.1\LAB 3A Monte-Carlo Method.AssemblyInfoInputs.cache
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 3A Monte-Carlo Method\LAB 3A Monte-Carlo Method\obj\Debug\netcoreapp3.1\LAB 3A Monte-Carlo Method.AssemblyInfo.cs
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 3A Monte-Carlo Method\LAB 3A Monte-Carlo Method\bin\Debug\netcoreapp3.1\LAB 3A Monte-Carlo Method.exe
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 3A Monte-Carlo Method\LAB 3A Monte-Carlo Method\bin\Debug\netcoreapp3.1\LAB 3A Monte-Carlo Method.deps.json
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 3A Monte-Carlo Method\LAB 3A Monte-Carlo Method\bin\Debug\netcoreapp3.1\LAB 3A Monte-Carlo Method.runtimeconfig.json
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 3A Monte-Carlo Method\LAB 3A Monte-Carlo Method\bin\Debug\netcoreapp3.1\LAB 3A Monte-Carlo Method.runtimeconfig.dev.json
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 3A Monte-Carlo Method\LAB 3A Monte-Carlo Method\bin\Debug\netcoreapp3.1\LAB 3A Monte-Carlo Method.dll
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 3A Monte-Carlo Method\LAB 3A Monte-Carlo Method\bin\Debug\netcoreapp3.1\LAB 3A Monte-Carlo Method.pdb
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 3A Monte-Carlo Method\LAB 3A Monte-Carlo Method\obj\Debug\netcoreapp3.1\LAB 3A Monte-Carlo Method.dll
+C:\Users\james\Desktop\MSSA\220\Excercise\LAB 3A Monte-Carlo Method\LAB 3A Monte-Carlo Method\obj\Debug\netcoreapp3.1\LAB 3A Monte-Carlo Method.pdb
